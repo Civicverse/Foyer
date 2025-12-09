@@ -48,7 +48,7 @@ git clone https://github.com/Civicverse-Backup-Main/Foyer.git
 cd Foyer
 
 # 2. Start the entire system
-docker compose up -d
+cd foyer then docker compose up -d
 
 # 3. Wait 5 seconds for services to initialize
 sleep 5
