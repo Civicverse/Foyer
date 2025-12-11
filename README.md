@@ -10,7 +10,7 @@ A Web5 Open Framework for Decentralized Civic Wealth, Autonomy, and Evolutionary
 # Civicverse – Full Stack (One-Click Install)
 
 ```bash
-git clone https://github.com/civicverse/civicverse.git
+git clone https://github.com/civicverse/Foyer.git
 cd civicverse
 chmod +x setup.sh
 ./setup.sh                     # generates keys + .env
