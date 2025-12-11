@@ -11,7 +11,7 @@ A Web5 Open Framework for Decentralized Civic Wealth, Autonomy, and Evolutionary
 
 ```bash
 git clone https://github.com/civicverse/Foyer.git
-cd civicverse
+cd Foyer
 chmod +x setup.sh
 ./setup.sh                     # generates keys + .env
 # ← edit .env with your real Kaspa/Monero addresses
